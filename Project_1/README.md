@@ -5,5 +5,6 @@ Project_1, berisi:
   - Data Aggregation
   - Kmeans Clustering
   - Clustering Interpretation
-  - Uji Hipotesis (z-test)
+  - Uji Hipotesis dua populasi
+  - Summary (Rangkuman)
   - Rekomendasi Bisnis
