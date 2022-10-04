@@ -1,10 +1,10 @@
-Project_1, berisi:
+Project_1 contains:
   - Combining multiple Dataset 
   - Data cleansing
   - Exploratory Data Analysis
   - Data Aggregation
   - Kmeans Clustering
   - Clustering Interpretation
-  - Uji Hipotesis dua populasi
-  - Summary (Rangkuman)
-  - Rekomendasi Bisnis
+  - Hypothesis testing for two population
+  - Summary 
+  - Business Recomendatation
