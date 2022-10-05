@@ -7,4 +7,4 @@ Project_1 contains:
   - Clustering Interpretation
   - Hypothesis testing for two population
   - Summary 
-  - Business Recomendatation
+  - Recomendatation
