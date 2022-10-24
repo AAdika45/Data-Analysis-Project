@@ -6,4 +6,5 @@ The methods we use are:
  - Correlation matrix,
  - Multi-class logistic regression,
  - K nearest neighbor (KNN). 
+ 
 All codes that we wrote are free to copy if you need them (but please do not delete the name's creator).
